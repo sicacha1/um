@@ -1,0 +1,1346 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="VENEVISION" tvg-logo="https://yt3.googleusercontent.com/r2tcL_eF5mnwmwStu48zqIh-0Q-qxPD5VuRUvTpmYthi27DP54NrZR_6LRvZYHpZ1P4ZvuM3Uw=s176-c-k-c0x00ffffff-no-rj", [COLOR orange] VENEVISION [/COLOR] 
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+#EXTINF:-1 tvg-name="TELEVEN" tvg-logo="https://i.imgur.com/Sz8trWt.png", [COLOR orange]  TELEVEN VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000 
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/565937.m3u8
+#EXTINF:-1 tvg-name="VENEVISION PLUS" tvg-logo="https://i.imgur.com/r7k4ohW.png", [COLOR orange] VENEVISION PLUS [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/master.m3u8
+#EXTINF:-1 tvg-name="VENEVISION PLUS" tvg-logo="https://i.imgur.com/VEYhkDq.png", [COLOR orange] VIVE [/COLOR]
+#EXTGRP:VENEZUELA
+https://cdn.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
+#EXTINF:-1 tvg-name="VENEVISION PLUS" tvg-logo="https://i.imgur.com/QX5DVUB.png", [COLOR orange] TVES [/COLOR]
+#EXTGRP:VENEZUELA
+https://ls.tves.gob.ve/hls/tves.m3u8
+#EXTINF:-1 tvg-name="VENEVISION PLUS" tvg-logo="https://yt3.googleusercontent.com/f5CBsvtFJ7W93FtWk5Vrh-E1xmTe3BQ8DLHXxkiH7hxr5XfK_cksrzNbiuXBWMNHWh5APOMpeQ=s176-c-k-c0x00ffffff-no-rj", [COLOR orange] MERIDIANO TV [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/725657.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/ivc-networks-en-vivo-1380.jpg", [COLOR orange] IVC VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/565948.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://i.imgur.com/VTRMLoJ.png", [COLOR orange] PROMAR TV VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg", [COLOR orange] GUARO TV [/COLOR]
+#EXTGRP:VENEZUELA
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg", [COLOR orange] LA IGUANA TV [/COLOR]
+#EXTGRP:VENEZUELA
+https://ythls.onrender.com/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg", [COLOR orange]  AGUACATE TV [/COLOR]
+#EXTGRP:VENEZUELA
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://i.imgur.com/B26qL3e.png", [COLOR orange]  SUN CHANNEL [/COLOR]
+#EXTGRP:VENEZUELA
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:-1 tvg-name="IVC" tvg-logo="https://i.imgur.com/hL2R9K1.png", [COLOR orange]  AVILA TV [/COLOR]
+#EXTGRP:VENEZUELA
+https://cdn.odysee.live/content/9fc00ad00fd8b0f08ab11f2324c82ffd713c3cb6/master.m3u8
+#EXTINF:-1 tvg-name="CANAL I" tvg-logo="https://i.imgur.com/jnJvyBC.png", [COLOR orange] CANAL I VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://i.imgur.com/r7k4ohW.png", [COLOR orange] VENEZOLANA TV VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cdn.odysee.live/content/9ad6390b9047d4c43ea0ae6ca3199a3ef70fc8aa/master.m3u8
+#EXTINF:-1 tvg-name="CANAL I" tvg-logo="https://i.imgur.com/OprRgQN.png", [COLOR orange] SPORTS MAX [/COLOR]
+#EXTGRP:VENEZUELA
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-name="CANAL I" tvg-logo="https://i.imgur.com/Znd1Ml9.png", [COLOR orange] ECT TV [/COLOR]
+#EXTGRP:VENEZUELA
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.iptvgratis.cl/logocanal/tvs.png", [COLOR orange] TVS ARAGUA VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://vcp3.myplaytv.com/tvs/tvs/chunklist_w840656259.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.iptvgratis.cl/logocanal/atv.png", [COLOR orange] TV ANZOUATEGUI  [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w1286149666.m3u8
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://culturavenezuela.com/wp-content/uploads/2021/07/cropped-Cierre-Alfa-SE.00_00_04_25.Imagen-fija003-150x150.png", [COLOR orange] CANAL CULTURA  [/COLOR]
+#EXTGRP:VENEZUELA
+https://ythls.onrender.com/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+#EXTINF:-1 tvg-name="TELESOL" tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-1/309062751_407153938261028_6592333951999972532_n.png?stp=dst-png_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=754033&_nc_ohc=xajnBh2pNIoAX9iIaw0&_nc_ht=scontent-mia3-2.xx&oh=00_AfCyXL0m_exnLvUrpMr24NXDoVwev31hhYptjeHJx0W1fg&oe=651C60D1", [COLOR orange] TV SOL CUMANA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://vcp2.myplaytv.com/telesol/telesol/chunklist_w541680545.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="TV FANB" tvg-logo="https://yt3.googleusercontent.com/A0D9JOZgj1mz_8MGuX1iGIR-ri1Pi1ApjKnbKHzr494gX41_EWQcGs1tC93r0qb5IGnJF4d-aQ=s176-c-k-c0x00ffffff-no-rj", [COLOR orange] TV FANB  [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1700554721.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.iptvgratis.cl/logocanal/tvr.png", [COLOR orange] TVR  VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqy27zdHtHO_5hNVOukocFqfvgeAivGsQXI8GOdyeBGI)/dm/3/x828i6j/s/live-0.m3u8#cell=lnyc
+#EXTINF:-1 tvg-name="VALE TV" tvg-logo="https://yt3.googleusercontent.com/Qd2WxRz4m9cY225Nr9ZjnKLLFEwc3ZD7U8JY9EJAzhslX9D-JCqULWQ9wfuQWBPT7MszqOy_OpE=s176-c-k-c0x00ffffff-no-rj", [COLOR orange] VALE TV [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1740784920.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="TV PACO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91ce8a6df9674a7ff01fa203cdca71c9.webp", [COLOR orange] TVPACO VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
+#EXTINF:-1 tvg-name="TV PACO" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbKyFzHa289XG2yJM38TmdCZ7xvY-QDCHgcKAiOtA=s176-c-k-c0x00ffffff-no-rj", [COLOR orange] BTA VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
+#EXTINF:-1 tvg-name="TV PACO" tvg-logo="https://pbs.twimg.com/profile_images/685552789745963008/iCuCWWJY_400x400.jpg", [COLOR orange] CATATUMBO TV [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cloud.streamingconnect.tv/hls/catatumbotv/catatumbotv.m3u8
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a5b75e43e4ae2c4c2b44a34ee9045d9.webp", [COLOR orange] TVO VENEZUELA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+#EXTINF:-1 tvg-name="CANTINA TV" tvg-logo="https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/322393664_845036776783951_6126798229278432939_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=IHHf5QjH9nYAX94KZyq&_nc_ht=scontent-mia3-1.xx&oh=00_AfCAWnGltRx75VAZUSpPCG5D4QaW50cMJxZJfF3RXLwK7A&oe=651BE09A", [COLOR orange] CANTINA TV VENEZUELA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w315323555.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp", [COLOR orange] NOVELISIMA VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/cl/230920ck5k54m7d38pn128s4k0/640x360_1126400_3_f.m3u8?i=475_2380
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bba9e8f06698f23c42b5879a2e841f00.webp", [COLOR orange] OXIGENO TV VZLA [/COLOR]
+#EXTGRP:VENEZUELA 
+#EXTVLCOPT:network-caching=1000
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1182441586.m3u8
+#EXTINF:-1 tvg-name="CHIVACOA TV" tvg-logo="https://yt3.googleusercontent.com/UY9huLs0_w6j1DANvdP7snMiXaFrzRD3HQmrnN6IZY4WxXx53tMJusEu_HudojOdbyILMkfjGw=s176-c-k-c0x00ffffff-no-rj", [COLOR orange] CHIVACOA TV [/COLOR]
+#EXTGRP:VENEZUELA 
+#EXTVLCOPT:network-caching=1000
+https://vdo1.panelstreaming.live:3875/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/366f33df3dbfb786579cb2984e8fe536.webp", [COLOR orange] DAN TV VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000 
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?
+#EXTINF:-1 tvg-name="VENEZOLANA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bba9e8f06698f23c42b5879a2e841f00.webp", [COLOR orange] VPITV VZLA [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://streannlivevpi.cachefly.net/Protected/sp=1;dirmatch=true;ip=200.90.69.201/e9fb339b588619c79895ec0600448927e15c2b5878d8782d8c6608506d0e1215/vpi1/vpi1/chunks.m3u8 
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-N-O-T-I-C-I-A-S--****-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556**  [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="GLOBOVISION" tvg-logo="https://i.imgur.com/6xZvT9g.png", [COLOR SaddleBrown] GLOBOVISION NOTICIAS [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000 
+https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/3svMsAN.png", [COLOR SaddleBrown] CNN ESPAÑOL NOTICIAS [/COLOR]
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393435.m3u8
+#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/F9XNnG4.png", [COLOR SaddleBrown] DW ESPAÑOL [/COLOR]
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/737.m3u8
+#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/xd6WsyY.png", [COLOR SaddleBrown] NT24 NOTICIAS [/COLOR]
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389631.m3u8
+#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/8MsbPCU.png", [COLOR SaddleBrown] EURONEWS NOTICIAS [/COLOR]
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/fMsJYzl.png", [COLOR SaddleBrown] CGTN China Español NOTICIAS [/COLOR]
+#EXTGRP:NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-name="GLOBOVISION" tvg-logo="https://i.imgur.com/YnpET0u.png", [COLOR SaddleBrown] RUSIA TODAY ESP NOTICIAS [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/625158.m3u8
+#EXTINF:-1 tvg-name="GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png", [COLOR SaddleBrown] FRANCE24 ESP NOTICIAS [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-name="GLOBOVISION" tvg-logo="https://www.un.org/sites/un2.un.org/files/2021/03/un-logo.png", [COLOR SaddleBrown] ONU TV LIVE [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/flavorIds/1_t99j24yi,1_bsogfzyt,1_xrg43i21,1_z7e3o1s4,1_2ts2t2ub,1_sde38jwg,1_vssxieer,1_n8kqal0r,1_euxa7unz,1_6sksh9uw,1_nb9nys26,1_sjxwiwyf,1_lek8y3vi,1_6peyxxs1,1_uqsq6d1f,1_olyis4ii,1_fvx0w97l,1_qdp4aoo2/a.m3u8?uiConfId=49754663&playSessionId=56e663a0-f79d-91ae-61c9-5334389c6ba9:1bd4b72e-926e-f5b6-f672-8747bad1b5eb&referrer=aHR0cHM6Ly9tZWRpYS51bi5vcmcvZW4vd2VidHY=&clientTag=html5:v7.55
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s176-c-k-c0x00ffffff-no-rj", [COLOR SaddleBrown] BBC NEWS [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393434.m3u8
+#EXTINF:-1 tvg-name="GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/300px-TeleSUR-Logo.svg.png", [COLOR SaddleBrown] TELESUR TEST [/COLOR]
+#EXTGRP:VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-U-L-T-U-R-A-L** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/WSf4WDX.png", [COLOR green] ANIMAL PLANET [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=100
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/669.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png", [COLOR green]  NATGEO SALVAJE [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000 
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/691.m3u8
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/X18tLOR.png", [COLOR green] CASA Y PESCA [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/700.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY ESPAÑOL" tvg-logo="https://i.imgur.com/czSLcrV.png", [COLOR green]  DISCOVERY ESPAÑOL [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/416398.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY ESPAÑOL" tvg-logo="https://i.imgur.com/4S7pjQj.png", [COLOR green]  DISCOVERY FAMILIA [/COLOR]
+#EXTGRP:CULTURA
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/395892.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY ESPAÑOL" tvg-logo="https://i.imgur.com/bvWBktx.png", [COLOR green]  DISCOVERY HOME HEALTH [/COLOR]
+#EXTGRP:CULTURA
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/674.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY ESPAÑOL" tvg-logo="https://i.imgur.com/l6fwWC3.png", [COLOR green]  DISCOVERY CIENCIA [/COLOR]
+#EXTGRP:CULTURA
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/676.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGACION" tvg-logo="https://i.imgur.com/AAAjh5P.png", [COLOR green]  DISCOVERY INVESTIGACION [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/704.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGACION" tvg-logo="https://i.imgur.com/OVXVT26.png", [COLOR green]  DISCOVERY WORLD [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/707.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGACION" tvg-logo="https://i.imgur.com/M0ZqURk.png",  [COLOR green] GARAGE TV [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/395896.m3u8
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://yt3.googleusercontent.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s176-c-k-c0x00ffffff-no-rj", [COLOR green]  HISTORY HD [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/719.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY HISTORY2" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg", [COLOR green] HISTORY2 [/COLOR]
+#EXTGRP:CULTURA
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/684.m3u8
+#EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg", [COLOR green] HISTORY2 HD [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/720.m3u8
+#EXTINF:-1 tvg-name=" NATIONAL GEOGRAPHY" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg", [COLOR green] NATIONAL GEOGRAPHY [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/692.m3u8
+#EXTINF:-1 tvg-name="ODISEA" tvg-logo="https://i.ibb.co/Hg7w6Hr/descarga.png", [COLOR green]  ODISEA [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/693.m3u8
+#EXTINF:-1 tvg-name="ODISEA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRR0_dntzmrE8xuJHRrmNrBTQInEGS-2xfHYSogCg=s176-c-k-c0x00ffffff-no-rj", [COLOR green]  NAUTILUS [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695244223/ei/XwsLZY7fAfyey_sP_IOGwAE/ip/190.206.64.118/id/6W06bbUayiI.21/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f11CyDO9VtEkvlRvAJcikglFViJA1Nac0Eru-o_1pbYlpvJQZvE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXpWGqpiM3sFOQR5of8_KueQzswtpujf4kZ5Gk4ijMfACIQCSjFEqxmHlNJ8yyuFXqVaR7wRWT_Sw1mogxOsSa1QmiA%3D%3D/file/index.m3u8?
+#EXTINF:-1 tvg-name="ODISEA" tvg-logo="https://i.pinimg.com/736x/00/2f/70/002f701b4b4d00a3587335ccc9a3f970--portal-web-logo-s.jpg", [COLOR green] NASA TV [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/690.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY HYSTORY2" tvg-logo="https://i.imgur.com/MD09iX0.png", [COLOR green] DISCOVERY HOME THEATER [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/705.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/MD09iX0.png", [COLOR green]  DISCOVERY TURBO [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/706.m3u8
+#EXTINF:-1 tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/PpL8a2J.png", [COLOR green]  EL GOURMET [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393389.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.imgur.com/LfuA6Q5.png", [COLOR green] TLC [/COLOR]
+#EXTGRP:CULTURA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/695.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us"=tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", Tastemade en Español (1080p)
+#EXTGRP:CULTURA
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us",Pluto TV Forensic Files en ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-CADENAS-P-R-E-M-I-U-M-** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/PecjymF.png", [COLOR green] CINE LATINO [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/835.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/PecjymF.png", [COLOR green] CINE LATINO HD [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393977.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/IFoWfq4.png", [COLOR white] CINECANAL [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/835021.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/JHE4bgO.png", [COLOR white] CLARO CINEMA [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/837.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/Ch5SvNR.png", [COLOR white] EUROPA EUROPA [/COLOR]
+#EXTGRP:CINEMA
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/842.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/Ch5SvNR.png", Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/oH9y252.png", [COLOR white] DE PELICULA CLASICO [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/685481.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/ipKteSv.png", [COLOR white] DE PELICULA PLUS [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/839.m3u8
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="https://i.imgur.com/oH9y252.png", [COLOR white] DE PELICULA [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/685481.m3u8
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="https://i.imgur.com/oH9y252.png", [COLOR white] CINE CLASICO TEST [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="https://i.imgur.com/Clc1mbJ.png", [COLOR white] DHE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393709.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://i.imgur.com/VPeDQcp.png", [COLOR white] AMC [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/830.m3u8
+#EXTINF:-1 tvg-name="CINEMA DINAMITA" tvg-logo="https://i.imgur.com/IFoWfq4.png", [COLOR white] CINEMA DINAMITA [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/834.m3u8
+#EXTINF:-1 tvg-name="CINEMAX HD ENG" tvg-logo="https://i.imgur.com/ybIWfWS.png", [COLOR white] CINEMAX HD ENG [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/788.m3u8
+#EXTINF:-1 tvg-name="CINEMAX ESP" tvg-logo="https://i.imgur.com/ybIWfWS.png", [COLOR white] CINEMAX ESP [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42548.m3u8
+#EXTINF:-1 tvg-name="GOLDEN" tvg-logo="https://i.imgur.com/j3Wy9eP.png", [COLOR white] GOLDEN [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000  
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/838.m3u8
+#EXTINF:-1 tvg-name="GOLDEN EDGE" tvg-logo="https://i.imgur.com/j3Wy9eP.png", [COLOR white] GOLDEN EDGE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/855.m3u8
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/NpPL3GU.png", [COLOR white] GOLDEN PLUS [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/803.m3u8
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/z1hE77U.png", [COLOR white] GOLDEN PREMIER [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42562.m3u8 
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/bDk8NUa.png", [COLOR white] GOLDEN PREMIER 2 [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/395114.m3u8
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/RJdfXRB.png", [COLOR white] HBO [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/858.m3u8
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/AyAPCgm.png", [COLOR white] HBO2 [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/859.m3u8
+#EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://i.imgur.com/AyAPCgm.png", [COLOR white] HBO PLUS [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42830.m3u8
+#EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/gKfF7Ze.png", [COLOR white] HBO SIGNATURE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/811.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://i.imgur.com/ArKbnwx.png", [COLOR white] HBO EXTREME ENG [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393900.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://i.imgur.com/BdswAey.png", [COLOR white] HBO  FAMILY [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/861.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://i.imgur.com/9OF2EVr.png", [COLOR white] HBO  MUNDI [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/862.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://i.imgur.com/MwzFsi5.png", [COLOR white] HBO POP [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/810.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp", [COLOR white] HBO SIGNATURE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/864.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://www.simple.com.ve/wp-content/uploads/2023/02/HBO_Signature.webp", [COLOR white] HBO SIGNATURE HD [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/811.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="https://i.imgur.com/zvS17dF.png", [COLOR white] MULTICINEMA [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/632138.m3u8
+#EXTINF:-1 tvg-name="HBO EXTREME ENG" tvg-logo="http://justv.xyz:25461/images/363634ac453c5228f143e38883076f50.jpg", [COLOR white] MULTIPREMIER [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/867.m3u8
+#EXTINF:-1 tvg-name="CINEMAX ESP" tvg-logo="https://i.imgur.com/7HXzjC0.png", [COLOR white] CINE SUREÑO [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/400453.m3u8
+#EXTINF:-1 tvg-name="CINEMAX ESP" tvg-logo="https://i.imgur.com/cYv9v5g.png", [COLOR white] TOP CINE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/400466.m3u8
+#EXTINF:-1 tvg-name="CINEMAX ESP" tvg-logo="https://i.imgur.com/vhCuBzI.png", [COLOR white] TNT [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42575.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/YlxkxAq.png", [COLOR white] PARAMOUNT [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/816.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/m16VVAh.png", [COLOR white] HORROROFY [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/400457.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/7UG19f0.png", [COLOR white] PANICO CINE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393981.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/nNLcGDu.png", [COLOR white] SPACE [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/818.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/RkAGMdQ.png", [COLOR white] STUDIO UNIVERSAL HD [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393897.m3u8
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://i.imgur.com/nJMQWKy.png", [COLOR white] TCM [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/875.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/tmjDtZ0.png", [COLOR white] UNIVERSAL CINEMA [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/824.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/okjyXsZ.png", [COLOR white] UNIVERSAL CRIMEN [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/826.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/okjyXsZ.png", [COLOR white] UNIVERSAL PREMIER [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393980.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/okjyXsZ.png", [COLOR white] UNIVERSAL COMEDIA [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/388711.m3u8
+#EXTINF:-1 tvg-name="CINEMA 1" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", [COLOR white] CINEMA 1 [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/400457.m3u8
+#EXTINF:-1 tvg-name="A&E MUNDO" tvg-logo="https://i.imgur.com/pr5BRwt.png", [COLOR white] A&E MUNDO [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/668.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.imgur.com/pr5BRwt.png", [COLOR white] AXN [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/831.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://i.imgur.com/5yg1hGk.png", [COLOR white] COMEDIA CENTRAL[/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/651.m3u8
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/MCj1xFe.png", [COLOR white] TNT SERIES [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/877.m3u8
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/HAALtH2.png", [COLOR white] TRU TV [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/731.m3u8
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/s5Ws5Tn.png", [COLOR white] UNIVERSAL TV [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/395112.m3u8
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/hoHznSh.png", [COLOR white] WARNER TV [/COLOR]
+#EXTGRP:SERIES 
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/829.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg", [COLOR white] FX [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/852.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://la.sonymovies.com/themes/custom/responsive_sony_movies/logo.png", [COLOR white] SONY MOVIE HD [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/398568.m3u8
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tcm_logo_red.png/800px-Tcm_logo_red.png", [COLOR white] TCM [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/875.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/302262242_475594661245156_7404763598369053325_n.jpg?stp=dst-jpg_p320x320&_nc_cat=106&ccb=1-7&_nc_sid=754033&_nc_ohc=3iyDg3-s3n4AX9BNKxk&_nc_ht=scontent-mia3-1.xx&oh=00_AfDSfeocOPrZWY6Cx1i1AzYNr8a68BHxfMqmY9YKtdsq-w&oe=651DE5E2", [COLOR white] MORBIDO TV [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/814.m3u8
+#EXTINF:-1 tvg-id="ExtremaTV.us"tvg-logo="https://i.imgur.com/Ch5SvNR.png" ,Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="Movies",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineEstelarSpain.es",Pluto TV Cine Estelar (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineEstelarSpain.es",Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineClasicoSpain.es",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineAccionSpain.es",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-E-N-T-R-E-T-E-N-I-M-I-E-N-T-O--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="TELENOVELAS UNIVISION" tvg-logo="https://i.imgur.com/V4I1iSJ.png", [COLOR pink] TELEMUNDO INTERNACIONAL [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-name="TELENOVELAS UNIVISION" tvg-logo="https://i.imgur.com/g5ShxZ7.png", [COLOR pink] CANAL ESTRELLAS LATAM [/COLOR]
+#EXTGRP:SERIES
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-name="TELENOVELAS UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", [COLOR pink] CORAZON AZTECA [/COLOR]
+#EXTGRP:SERIES
+http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+#EXTINF:-1 tvg-name="TELENOVELAS UNIVISION" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png", [COLOR pink] TELENOVELAS [/COLOR]
+#EXTGRP:SERIES
+http://45.228.234.77:3340/play/tlnovelas/index.m3u8
+#EXTINF:-1 tvg-name="TELENOVELAS UNIVISION" tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png", [COLOR pink] AZTECA INTERNACIONAL TEST [/COLOR]
+#EXTGRP:SERIES
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Undefined",Canela TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CanelaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1 tvg-id="PlutoTVRealitiesESP.us",Pluto TV Realities ESP (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTeenStarsSpain.es",Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTelenovelasSpain.es",Pluto TV Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-O-M-I-Q-U-I-T-A-S--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/DdFTFKO.png", [COLOR gold] CARTON NETWORK [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393764.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/eT7TjEP.png", [COLOR gold] CARTOONITO [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/L0e0PWQ.png", [COLOR gold] DISCOVERY KIDS [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389781.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/MclBXDy.png", [COLOR gold] DISNEY CHANNEL [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389784.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/K6cUSEb.png",[COLOR gold] DISNEY JUNNIOR [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389785.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/342728499_967214407631790_2057972675636627249_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=Q9pDPJ67PhYAX88WFLB&_nc_ht=scontent-mia3-2.xx&oh=00_AfCTjFC8g-rWdTM98hr6-E1T5sc68IIP4otvlamHM9fvlw&oe=651C7FAB",[COLOR gold] ENERGEEK TV KIDS [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/400171.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/1688537909685555203/11BMR7-H_400x400.jpg", [COLOR gold] NICKELODEON [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389798.m3u8 
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/1688537909685555203/11BMR7-H_400x400.jpg", [COLOR gold] NICKELODEON CLASICC [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/633341.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/1UBFuwL.png", [COLOR gold] DREAMWORKS [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/398566.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/CMMEIq3.png", [COLOR gold] PLANETA TV KIDS [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+ttps://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/768px-TeenNick_2019_logo.svg.png", [COLOR gold] NICK TEEN TEST [/COLOR]
+#EXTGRP:INFANTILES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQl-ZKx32gK-ZyiykuOrgQdBj4BEr1SP8mxEPIw=s176-c-k-c0x00ffffff-no-rj", [COLOR gold] ZOO MOO [/COLOR]
+#EXTGRP:INFANTILES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389789.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://i.imgur.com/jq3ofwc.png", [COLOR gold] BABY TV [/COLOR]
+#EXTGRP:INFANTILES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393766.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://yt3.googleusercontent.com/1tDPqdUOhpUDD0iq_yXIlKcr3G6mzRuUP1apKnHfexiFFwKiOW3w-Asr9EJPlFMDWni3gYM_=s176-c-k-c0x00ffffff-no-rj", [COLOR gold] MACHA Y EL OSO 24/7 [/COLOR]
+#EXTGRP:INFANTILES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/5134.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Vintage_Malibu_Barbie_2.jpg", [COLOR gold] BARBIE 24/7 [/COLOR]
+#EXTGRP:INFANTILES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/5111.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/s1CrkKqv/640px-Nick-svg.png", NICK Spanish Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/bltd6f5c79ef93b7354/621c716caa56997a20e1f161/babysharkk_0.png?", [COLOR gold] BABY SHARK  [/COLOR]
+#EXTGRP:INFANTILES
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://m.media-amazon.com/images/I/71ffizLpXcL.png", [COLOR gold] TOON GOGGLES  [/COLOR]
+#EXTGRP:INFANTILES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbz_F2TPoDLsze3MDdar-rqgf3_aGZeR6D34X-XBA=s176-c-k-c0x00ffffff-no-rj", [COLOR gold] BOING KIKS  [/COLOR]
+#EXTGRP:INFANTILES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389775.m3u8
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Vintage_Malibu_Barbie_2.jpg", [COLOR gold] BOB ESPONJA 24/7 TEST [/COLOR]
+#EXTGRP:INFANTILES
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-name="CARTON NETWORK" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png", [COLOR gold] Rocket Power TEST  [/COLOR]
+#EXTGRP:INFANTILES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es",Pluto TV Kids (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-S-E-R-I-E-S-24/7-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="ALERTA AEREOPUERTO" tvg-logo="https://i.imgur.com/9LR6y5m.png", [COLOR red] ALERTA AEREOPUERTO 24/7 [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/399921.m3u8
+#EXTINF:-1 tvg-name="CASO CERRADO" tvg-logo="https://i.imgur.com/tYJ0TTc.png", [COLOR red] CASO CERRADO 24/7 [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/767.m3u8
+#EXTINF:-1 tvg-name="EL ZORRO" tvg-logo="https://i.imgur.com/pNKkq8W.png", [COLOR red] EL ZORRO 24/7 [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/750.m3u8
+#EXTINF:-1 tvg-name="CANTINFLAS" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg", [COLOR red] CANTIFLAS 24/7 [/COLOR]
+#EXTGRP:CINEMA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/745.m3u8
+#EXTINF:-1 tvg-name="EXTRANORMAL" tvg-logo="https://i.imgur.com/9KI1Z2l.png", [COLOR red] EXTRANORMAL 24/7 [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/587771.m3u8
+#EXTINF:-1 tvg-name="EL ZORRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", [COLOR red] SABER MAS CULTURA 24/7 [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/4366c1ae-8898-456f-b9f2-ea6b4c6c2212/0.m3u8
+#EXTINF:-1 tvg-name="EXTRANORMAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Chucky_Appearance_%28TV_Series%29.jpeg", [COLOR red] CANAL CHUKY 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/721949.m3u8
+#EXTINF:-1 tvg-name="EXTRANORMAL" tvg-logo="https://i.imgur.com/94UgtOJ.png", [COLOR red] FREDDY CRUGER 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/769.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.imgur.com/Hsn6iNm.png", [COLOR red] CINE COMEDIA 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/626279.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.ibb.co/k4c5x0S/cinema-vector-illustration-png-242108.jpg", [COLOR red] CINE HORROR 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390796.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg", [COLOR red] CINE VIP 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390798.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg", [COLOR red] CINE VIP2 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390799.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.ibb.co/NKZzzvB/dos-butacas-rojas-brillantes-del-cine-cubo-de-papel-con-palomitas-en-asiento-icono-asunto-industria.jpg", [COLOR red] ESTELAR 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/566857.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.imgur.com/qT2wMM8.png", [COLOR red] PLUTO CINE TERROR 24/7 [/COLOR]
+#EXTGRP:SERIES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/566866.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK MEX" tvg-logo="https://i.imgur.com/CFcRsoR.png", [COLOR red] SHARKTANG MEX [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/760.m3u8
+#EXTINF:-1 tvg-name="SHARKTANK COLOM" tvg-logo="https://i.imgur.com/F5wJY5u.png", [COLOR red] SHARKTANG COLOM [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/764.m3u8
+#EXTINF:-1 tvg-name="LOS SIMSOMNS" tvg-logo="https://i.imgur.com/ZjwMBC2.png", [COLOR red] LOS SIMSOMNS [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/780.m3u8
+#EXTINF:-1 tvg-name="LOS TRES CHIFLADOS" tvg-logo="https://i.imgur.com/4w7zNCN.png", [COLOR red] LOS TRES CHIFLADOS [/COLOR]
+#EXTGRP:SERIES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/754.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-D-E-P-O-R-T-E-S--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTM3U
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://aftertv.xyz/posters/1615865234312.png",  MLB TV HD
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://aftertv.xyz/posters/1615865234312.png",  MLB TV SD
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://as01.epimg.net/baloncesto/imagenes/2021/08/04/nba/1628075599_241755_1628075753_noticia_normal_recorte1.jpg", NBA TV 
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embrosoft.com/wp-content/uploads/2020/09/nfl-frontal.jpg",  NFL TV 
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390750.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://embrosoft.com/wp-content/uploads/2020/09/nfl-frontal.jpg",  MARQUEE SPORTS NETWORK
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/100.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/qh7Iywp.png",  WAPA DEPORTES PR MLB
+#EXTGRP:DEPORTES
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/fox-sports-pluto.png", FOX SPORTS USA 
+#EXTGRP:DEPORTES2
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/398736.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/fox-sports-pluto.png",  FOX SPORTS 2 USA 
+#EXTGRP:DEPORTES2
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390734.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/31iIf6vgbsS.jpg", UFC PASS LUCHA
+#EXTGRP:DEPORTES2
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/576048.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-name="" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp", REAL MADRID TV 
+#EXTVLCOPT:network-caching=1000
+#EXTGRP:DEPORTES2
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/SLrPvXC.png", FOX SPORTS ARG 
+#EXTGRP:DEPORTES2
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389691.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/SqkLrOK.png", FOX SPORTS 3 MEX 
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389688.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/5GLa9XI.png", FOX SPORTS 3 ARG 
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389687.m3u8
+#EXTINF:-1 tvg-name="M" tvg-logo="https://i.imgur.com/U3kYLKO.png", ESPN
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389670.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/R3sGGO5.png", ESPN EXTRA 
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389671.m3u8 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/40SHixE.png", ESPN PREMIUM
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/397906.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" BEINS SPORTS Ñ 
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/G478cGU.png", DIRECTV SPORTS
+#EXTGRP:DEPORTES3
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389730.m3u8 
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", [COLOR skyblue] BARCA TV [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/SLrPvXC.png", [COLOR deepskyblue] FOX SPORTS MEX [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389693.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/SLrPvXC.png", [COLOR deepskyblue] FOX SPORTS ARG [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389691.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/SqkLrOK.png", [COLOR deepskyblue] FOX SPORTS 3 MEX [/COLOR]
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389688.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/5GLa9XI.png", [COLOR deepskyblue] FOX SPORTS 3 ARG [/COLOR]
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389687.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/U3kYLKO.png", [COLOR deepskyblue] ESPN [/COLOR]
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389670.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/R3sGGO5.png", [COLOR deepskyblue] ESPN EXTRA [/COLOR]
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389671.m3u8 
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/40SHixE.png", [COLOR deepskyblue]ESPN PREMIUM [/COLOR]
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/397906.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/40SHixE.png", [COLOR deepskyblue]SPORTS GRIP [/COLOR]
+#EXTGRP:DEPORTES
+https://dai.google.com/linear/hls/pa/event/3e-9BOvHQrCI9hboMYjb6w/stream/2aad154b-20df-4349-8d3a-b97aec851ef1:MRN2/variant/7b96e7b8d1915ff0c2212a524c225dcd/bandwidth/5859480.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/40SHixE.png", [COLOR deepskyblue]LAX SPORTS NETWORK [/COLOR]
+#EXTGRP:DEPORTES
+https://dai.google.com/linear/hls/pa/event/3e-9BOvHQrCI9hboMYjb6w/stream/2aad154b-20df-4349-8d3a-b97aec851ef1:MRN2/variant/2ec92ed12713664c9598ee62a8c85ee7/bandwidth/413520.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://i.imgur.com/40SHixE.png", [COLOR deepskyblue] OUTSIDE AMERICA  [/COLOR]
+#EXTGRP:DEPORTES
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/dc7774e552c2aecf0c91c77829d0678c.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg", [COLOR deepskyblue] BEINS SPORTS [/COLOR]
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/DmVZLg6N/51q-HVe-Byj-KL.jpg",[COLOR deepskyblue] Hard Knocks Fighting [/COLOR]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png", [COLOR deepskyblue] Tennis Channel [/COLOR]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/280PpXpF/1200px-World-Poker-Tour-Logo-svg.png",[COLOR deepskyblue] World Poker Tour [/COLOR]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp", REAL MADRID TV 
+#EXTVLCOPT:network-caching=1000
+#EXTGRP:DEPORTES2
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/G478cGU.png", BETIS TV
+#EXTGRP:DEPORTES3
+https://betistv-live.flumotion.com/CFxr2-K8qm4x-LLLHHdJwg/1696218750/betistv/live_all/betistv/live_480p/chunks.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-M-U-S-I-C-A--VIDEOS--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/E65GQN9.png", [COLOR olive] DELUXE MUSICA [/COLOR]
+#EXTGRP:MUSICA
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/3fA50RJ.png", [COLOR olive] LOBO TV [/COLOR]
+#EXTGRP:MUSICA
+chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-id="bluestv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", BLUES TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.imgur.com/Ch5SvNR.png",CMC (California Music Channel)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="Amordiscos.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", Amordiscos (540p)
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-id="tma" tvg-logo "https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", TMA MAS CARIBE (540p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4ACETV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/N55LT0GGXOUT6SC3GJN7/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4ACETV CLASSIC HITS
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VFEHH3ML20PMYQM0QEPB/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music",Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Music",Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Music",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Music",Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Music",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Music",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Music",Stingray Karaoke (720p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music",Stingray Naturescape (360p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Music",Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Music",Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Music",STIRR Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",STIRR Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",STIRR Stingray Urban Beat (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="Music",Now 90
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-I-N-T-E-R-N-A-C-I-O-N-A-L-E-S-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:12345
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-J-A-P-O-N-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbNRGC39WBzvaKP6B2_TlwF7OEb1nF63ArViBu0RA=s176-c-k-c0x00ffffff-no-rj", [COLOR brown] NHK JAPON [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/DuGepQp.jpg", [COLOR brown] Asahi Shimbun Digital 朝日新聞デジタル [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://ythls.onrender.com/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/vcGsZVD.png", [COLOR brown] HBC Hokkaido News 24 HBC北海道ニュース24[/COLOR]
+#EXTGRP:INTERNACIONAL
+https://ythls.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-A-R-G-E-N-T-I-N-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://i.imgur.com/ZK7AQFg.png", [COLOR brown] EL TRECE ARGENTINA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://i.imgur.com/EtcVSm4.png", [COLOR brown] EL NUEVE ARGENTINA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://i.imgur.com/EWmshtx.png", [COLOR brown] NET TV ARGENTINA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-U-R-A-C-A-O-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://i.imgur.com/7cVkllH.png", [COLOR brown] BONCE TV [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://i.imgur.com/7cVkllH.png", [COLOR brown] TV 13 [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/tvdirect/stream1/index.m3u8
+#EXTINF:-1 tvg-name="EL TRECE" tvg-logo="https://i.ibb.co/vhV5mzL/VAM-TV-tvtolive-com.jpg", [COLOR brown] VAM TV [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://cur.watch/api/get_stream/vam/streann/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-H-I-N-A--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/sSSO7UD.png", [COLOR brown] CCTV-10 科教 [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/sSSO7UD.png", [COLOR brown] CCTV-4 中文国际亚洲 [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/U8d4Is6.png", [COLOR brown] CCTV+ 1 [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/WqM6xnF.png", [COLOR brown] Dragon TV International 东方卫视国际 [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-M-E-X-I-C-O-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Og17U9N.png", [COLOR brown] ADN 40 [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/snIU1UA.jpg", [COLOR brown] AMX Noticias [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/TvTn3hO.png", [COLOR brown] CANAL 10 CANCUM [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-I-S-R-A-E-L-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png", [COLOR brown] 24 News Arabic [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/eFM3bTq.png", [COLOR brown] Channel ערוץ 13 [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/QXB1jv8.png", [COLOR brown] Kan 11 [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/512px-Kan11Logo.svg.png", [COLOR brown] Knesset Channel [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-H-I-L-E-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/BvGsAkw.png", [COLOR brown] CANAL 13 CHILE [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/KvMuTzN.png", [COLOR brown] CANAL 13 HUMOR [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/8WJUbSD.png", [COLOR brown] CANAL 13 KIDS [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/R6D228s.png", [COLOR brown] CANAL 13 PRIME [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-O-L-O-M-B-I-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", RCN Xtra (1080p)
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-O-S-T-A---R-I-C-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/TyJmTTs.png", [COLOR brown] CANAL 13 COSTA RICA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/413386.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="http://fanc.tmsimg.com/assets/s105874_ll_h3_aa.png", [COLOR brown] MULTIMEDIOS COSTA RICA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/413390.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/DKTDWIO.png", [COLOR brown] TELETICA COSTA RICA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/413395.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-C-U-B-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/N6IIx07.png", [COLOR brown] CUBAMAX CUBA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393904.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/N6IIx07.png", [COLOR brown] TELEREBELDE CUBA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/393902.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-E-C-U-A-D-O-R-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/X2LTyP6.png", [COLOR brown] CANAL UNO ECUADOR [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390903.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/zCaV29y.png", [COLOR brown] ECUAVISA ECUADOR [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/400660.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/2No7Bga.png", [COLOR brown] OROMARTV ECUADOR [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390920.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-S-A-L-V-A-D-O-R-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/YRbrwdF.png", [COLOR brown] CANAL 12 SALVADOR [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/398577.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/xJ3tMSd.png", [COLOR brown] CANAL 4 SALVADOR [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/398580.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-E-S-P-A-Ñ-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/X7NVFtf.png", [COLOR brown] ANTENA 3 ESPAÑA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/564077.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/wBK44RB.png", [COLOR brown] ES LA 1 ESPAÑA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/564071.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://clubdeamigos.eltorotv.com/wp-content/uploads/2020/07/logo300.jpg", [COLOR brown] DE TOROS CLUB AMIGOS [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/wBK44RB.png", [COLOR brown] TVE  ESPAÑA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/564074.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/vyQgnxw.png", [COLOR brown] LA SEXTA  ESPAÑA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/564086.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://imgur.com/8H3Q07b.png", [COLOR brown] ARAGON TV  ESPAÑA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s176-c-k-c0x00ffffff-no-rj", [COLOR brown] TV MALAGA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/ZKR2jKr.png", [COLOR brown] 24H NOTICIAS  ESPAÑA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-G-U-A-T-E-M-A-L-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/nhcXgTZ.png", [COLOR brown] GUATEVISION GUATEMALA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/409404.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Sf5GTCq.png", [COLOR brown] TNT23 GUATEMALA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/409403.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-H-O-N-D-U-R-A-S-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/gARfo8w.png", [COLOR brown] CANAL5 HONDURAS [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390888.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/W6Y8DEj.png", [COLOR brown] TELEPROGRESO HONDURAS [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/701906.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-N-I-C-A-R-A-G-U-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="http://fanc.tmsimg.com/assets/s38806_ll_h3_aa.png", [COLOR brown] CANAL 10 NICARAGUA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/561519.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-P-A-N-A-M-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/TTNcNvg.png", [COLOR brown] TELEMETRO PANAMA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/395429.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="http://webtv.iptvsmarters.com/themes/protheme/images/NoPostervertical.png", [COLOR brown] TVN PANAMA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/395432.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-P-A-L-E-S-T-I-N-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Z2rfrQ8.png", [COLOR brown] Al-Aqsa TV [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Q0E4LLi.png", [COLOR brown] Al Quds Today TV [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-P-A-R-A-G-U-A-Y-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/lf7K0gH.png", [COLOR brown] LA TELE PARAGUAY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390978.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/LGM3Ksn.png", [COLOR brown] EL TRECE PARAGUAY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390986.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-P-E-R-U-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.ibb.co/K7FCkyk/america12.png", [COLOR brown] AMERICA TV PERU [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390870.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/5qv9x0n.png", [COLOR brown] TV PERU [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390885.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://yt3.googleusercontent.com/7fQuN_sy_jgIza2BlEH5gW_atlotzaioPZNQ7_M03efhuHbXeDI3qk4189rGhhdtqj_6Ozw_yh8=s176-c-k-c0x00ffffff-no-rj", [COLOR brown] SOL TV PERU [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/WJy02lF.png", [COLOR brown] PANAMERICANA PERU [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/584548.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/xM3bf2u.png", [COLOR brown] TELEMUNDO PUERTO RICO [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/560610.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-P-U-E-R-T-O---R-I-C-O-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/7aIab2r.png", [COLOR brown] ACS Network [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/CSl4dOb.png", [COLOR brown] WAPA PUERTO RICO [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-D-O-M-I-N-I-C-A-NA-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/QNQ2Ohm.png", [COLOR brown] ANTENA 7 DOMINICANA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/728919.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/WDv1lBg.png", [COLOR brown] TELECENTRO DOMINICANA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390840.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-U-R-U-G-U-A-Y-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/f1oWD6h.png", [COLOR brown]  A+V URUGUAY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390957.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/4mxJdpy.png", [COLOR brown] TV CIUDAD URUGUAY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/594535.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-I-T-A-L-I-A--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/pID3ZGx.png", [COLOR brown] Cinema Segreto ITALIA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/0xT7bZP.jpg", [COLOR brown] Full Moom Tv ITALIA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/UERYhO1.png", [COLOR brown] Motor TV ITALIA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-T-U-R-K-I-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/yyhWOZs.png", [COLOR brown] TRT Arabi TURKEY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/fIVFCEd.png", [COLOR brown] TRT Müzik TURKEY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/OSTOQNw.png", [COLOR brown] TRT Türk TURKEY [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/nJvGdoj.jpg", [COLOR brown] 7 Kanal Ukraine [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-U-K-R-A-N-I-A-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/KlPqxlo.png", [COLOR brown] Duma TV Ukraine [/COLOR]
+#EXTGRP:INTERNACIONAL
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-U-S-A----******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:123
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/o6PAq5O.png", [COLOR skyblue] DESTINATION AMERICA USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389970.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/uFro0Sc.png", [COLOR skyblue] GAME NETWORK USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390027.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/IFUzKRP.png", [COLOR skyblue] FOOD NETWORK USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390009.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Jm2sbY5.png", [COLOR skyblue] DISCOVERY VELOCITY USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389980.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/3nM2uV1.png", [COLOR skyblue] DISCOVERY HEROES USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19996.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/VCJoWak.png", [COLOR skyblue] MOTORTREND USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19989.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/OlbAemx.png", [COLOR skyblue] NATGEO USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19990.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/W9aj2hL.png", [COLOR skyblue] TRU TV USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/20009.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/TFdSIYM.png", [COLOR skyblue] HISTORY USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390040.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/xKVHb5x.png", [COLOR skyblue] COOKING CHANNEL USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389963.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/ybIWfWS.png", [COLOR skyblue] CINEMAX 5 STARS USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19933.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/ybIWfWS.png", [COLOR skyblue] CINEMAX THRILLERS  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19937.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/a2gct7U.png", [COLOR skyblue] SHOWTIME  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19961.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/a2gct7U.png", [COLOR skyblue] SHOWTIME  EXTREME USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19963.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Qchu2nx.png", [COLOR skyblue] STARZ  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19971.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Qchu2nx.png", [COLOR skyblue] STARZ ENCORE  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19975.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/Qchu2nx.png", [COLOR skyblue] STARZ SUPENSE  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19979.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/gKfF7Ze.png", [COLOR skyblue] HBO SIGNATURE  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19953.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/gKfF7Ze.png", [COLOR skyblue] CNB USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://helpfulpost.net/cnbc/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/mGIlUsW.png", [COLOR skyblue] HBO ZONE  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19954.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/lsexoaD.png", [COLOR skyblue] EPIX  USA [/COLOR]
+#EXTGRP:INTERNACIONAL
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/19942.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",30A We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-R-E-L-I-G-I-O-N--******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQtB_I9cyD9dB30wrVesiXiayju_upf5ZqtLggY=s176-c-k-c0x00ffffff-no-rj", [COLOR Snow] 3AB LATINO RELIGION [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42341.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://yt3.googleusercontent.com/Utn1fMGfPxB1GESasoSW4p_w_ofIBBQBp03eYDd10JnySFU2HEPzkn_ebk4-t7Rw6klkCHZW=s176-c-k-c0x00ffffff-no-rj", [COLOR Snow] ESPERANZA TV RELIGION [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/391799.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQmu3-LpdrgfsvMLTt6iTFUSXix53Yrjik3YYJ9=s176-c-k-c0x00ffffff-no-rj", [COLOR Snow]  EWTN RELIGION [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42348.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://yt3.googleusercontent.com/j1xC8bw_N6_bxCjz26oGYbydz379C0qltXi6xxrQ2KY5b59_7d7Oqt_Qws3tcdmA-VJ2F7lK=s176-c-k-c0x00ffffff-no-rj", [COLOR Snow] TV GRACIA RELIGION [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389635.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://yt3.googleusercontent.com/wX8OnSUKCMPPCyVe2Yl_qnkjGWFJT_enFy6mZWb2VNA5wCIJyWZcix2K_G0uugWXAeXzYY_eba0=s176-c-k-c0x00ffffff-no-rj", [COLOR Snow] NUEVO TIEMPO [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/42354.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://pbs.twimg.com/profile_images/694622115786412032/aAZQM5tp_400x400.jpg", [COLOR Snow] ENLACE TV TEST [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://1-221-11554-1.b.cdn13.com:443/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://image.roku.com/developer_channels/prod/38afb0a9dc94e956f8008f75d455080b7f428312596fef4637cc06b9145d94b5.png", [COLOR Snow] TU UNIVERSO TV TEST [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://image.roku.com/developer_channels/prod/02505b330e44a59b5cbbf0b595e757d0dadc776b5c0aec342f53d571c766bc2d.png", [COLOR Snow] DIOS TV KIDS TEST [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png", [COLOR Snow] HOSANNA VISION [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png", [COLOR Snow] CMB TELEVISION [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://cdn-media-content.onestream.studio/content/hls/live/live_1884859_z6u4e1hge/hls.m3u8
+#EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="Religious",CBN Español (1080p)
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png", [COLOR Snow] EBENEXER TV [/COLOR]
+#EXTGRP:RELIGION
+#EXTVLCOPT:network-caching=1000
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CatholicTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", Catholic TV
+#EXTVLCOPT:network-caching=1000
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-id="SUMtvLatino.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", SUMtv Latino (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", T hree Angels Broadcasting Network Latino (3ABN) (720p)
+#EXTVLCOPT:network-caching=1000
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+#EXTINF:-1, [B] [COLOR lime] [I][B] -**-P-E-L-I-C-U-L-A-S-GRABADAS-******-INFO PEDIDOS Y AVERIAS WHATSAPP ESCRIBA /(+1) 802-245-3556** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png", [COLOR lime] CARS 4 LA PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://utlite.co/?utm_campaign=beta_promo&utm_id=1&utm_source=btw&utm_medium=modal#player/magnet%3A%3Fxt%3Durn%3Abtih%3A3eb031a49c8a8cfec1a6e80f2e46644c57a8904d%26dn%3DCars.3.2017.1080p-dual-lat.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png", [COLOR lime] Super Mario Bros La PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://image.tmdb.org/t/p/w500/dvjFM3GgYm3gDZ6Ulw0JurDYs4r.jpg", [COLOR lime] BARBIE CASTILLO DE DIAMANTES PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/15902146490988087416513007050637/6.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://image.tmdb.org/t/p/w500", [COLOR lime] BARBIE EL DIARIO DE BARBIE PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/15902146490988087416513007050637/10.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://image.tmdb.org/t/p/w500/sLpCLVQWTU7BI4yAL6kIFM9J3eX.jpg", [COLOR lime] BARBIE EL LAGO DE LOS CISNES PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/15902146490988087416513007050637/9.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://image.tmdb.org/t/p/w500/wn2aoYKOonwMNKkzfgO5y4ji8pB.jpg", [COLOR lime] BARBIE ESCUELA DE PRINCESAS PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/15902146490988087416513007050637/8.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png", [COLOR lime] Super Mario Bros La PELICULA [/COLOR]
+#EXTGRP:peliculas
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg", [COLOR lime] Animal Crossing La pelicula INFANTILES  [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/Peliculas-wii/Animal%20Crossing%20La%20pelicula.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/2902985.jpg", [COLOR lime] Un jefe en pañales PELICULA INFANTILES [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4 
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Un_Jefe_en_Pañales_2_Poster.jpg", [COLOR lime] Un jefe en pañales 2  INFANTILES [/COLOR]
+#EXTGRP:PELICULAS
+http://archive.org/download/tt6932874_202107/tt6932874.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg", [COLOR lime] Afro Samurai Resurrection 2009 ANIME PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/the-immortal-wars-resurgence-2019/Afro%20Samurai%20Resurrection%20%282009%29.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20Aventura%20m%C3%ADstica.jpg", [COLOR lime] Aventura mística ANIME PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20Aventura%20m%C3%ADstica~1.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://github.com/ozzy303333/PELICULAS-HD#:~:text=https%3A//pics.filmaffinity.com/Cencoroll_Connect%2D753281182%2Dlarge.jpg", [COLOR lime] Cencoroll Connect 2019 ANIME PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg", [COLOR lime] Ginga Eiyuu Densetsu 1992 ANIME PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/the-immortal-wars-resurgence-2019/Ginga%20Eiyuu%20Densetsu%20Gaiden%20Ougon%20no%20Tsubasa%20%281992%29.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] La Puerta Roja PELICULA TERROR [/COLOR]
+#EXTGRP:PELICULAS
+https://video-downloads.googleusercontent.com/ADGPM2m67rmeFH4jghnoAQX6jHcKigpT9o3y8vobwqxNWUtSv-vIDbfr0Y98Cn5zpOJrza8UAyP9CJt63QFI9Kh9R3ZQDFjsE7qCJvoWXDfvBARhnwwS5IE-BHf6Rk87w42k3105MIeOnIkoB9jZKryT95hjduHtzWuOIDcZRYtEfb1YhNxDqIoy9VlOls3BpzMkiVe9cGD4dZ2XpJHcDPm9qd-gUWm_u99UBPMtVTxE6MsoXeWRL3g
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] INSIDE 2023 PELICULA TERROR [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/1-90_20230724/89789690790.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg",  [COLOR lime] EL FANITCO 2019 LA PELICULA SUSPENSO [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/The%20Fanatic%20%282019%29.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] The Prestige 2006 PELICULA ACCION [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] The Wrong CheerleadeR PELICULA Supenso [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Wrong%20Cheerleader%20Coach.mp4 
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime]John Wick 4 PPV SUSPENSO  [/COLOR]
+#EXTGRP:PELICULAS
+https://video-downloads.googleusercontent.com/ADGPM2kByoVFj6-bjxMxtX8BIzhSC9BOPMJ-v7ejOu0TaLqZrL2oMGNsI3vc7TaNFeMPkIy8mrebQFvpq-Up5GuPB1gHEa-xfYQrcQEy7DH5vW6leP8P1fBCwqosPy1EW9Rba2_Jq7SfzlXIzOPlTj8JJfhdskArpCuhHKOHyg-33Uf-1gT8PnobJfoJcdL7BaZD_1Mjbm2I07H0LL7snLk7iINcY1Wqy9mZERHppSWgkIn1ONnS4zE
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] The Kids of Grove 2020 PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/TKG%20The%20Kids%20of%20Grove%20%282020%29.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] ZODIACO PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] CIUDAD DE MENTIRAS PELICULA VIDA REAL  [/COLOR]
+#EXTGRP:PELICULAS
+https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras~1.ia.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] El Estornino PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.mp4 
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime]Broken Star PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star~1.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] La Criatura del Desierto 2019 PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/1-90_20230724/8904785784.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] ATMAN PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] HOWARD HUGHES PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://ia804700.us.archive.org/21/items/RulesDontApply20161080pFULLHD/Rules%20Dont%20Apply%20(2016)%201080p%20FULL%20HD.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] LA PURGA PELICULA  [/COLOR]
+#EXTGRP:PELICULAS
+https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] Star Wars The Force Awakens PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://ia801605.us.archive.org/12/items/discotqa_gmail_1.0_201703/ChileFilms.mp4
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/The_Movies_Coverart.jpg", [COLOR lime] Sahara PELICULA [/COLOR]
+#EXTGRP:PELICULAS
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
